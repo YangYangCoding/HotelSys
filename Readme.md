@@ -1,7 +1,7 @@
 This is a hotel search website system, you can search the suitable rooms in different hotels, then check in online.
 It has two parts, 
 the first one is the room search website, it allows users to search the room they like then check in.
-the second one is the hotel check in system, it allows the hotel managers to arrange the check in satuation.
+the second one is the hotel check in system, it allows the hotel managers to arrange the check in situation.
 
 I use SQL as Database, tomcat 7.0 as server, Java as the programme language, JSP to build to front pages and 
 use MVC as the structure.
